@@ -14,6 +14,8 @@ e)	Article:contiene un id identificador de el articulo,eqtquetas (h1,h2),una ima
 f)	Aside:Contiene etiqueta h1 y blockquote que permite citar un párrafo.
 g)	Footer (pie de pagina):el pie de pagina cuenta con una etiqueta de dirección.
 
+
+
 <!doctype html>
 <html>
 <head>
@@ -135,6 +137,12 @@ g)	Footer (pie de pagina):el pie de pagina cuenta con una etiqueta de dirección
    </footer>
 </body>
 </html>
+
+
+
+
+
+
 
 
 
@@ -293,6 +301,12 @@ El pie de página contiene un una dirección (address).
    </footer>
 </body>
 </html>
+
+
+
+
+
+
 
 
 
